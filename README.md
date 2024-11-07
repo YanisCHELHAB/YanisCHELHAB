@@ -1,5 +1,5 @@
 ## INTRODUCTION
- ### 3rd year Computer Science student and Front-end web developer.
+ ### 4th year Computer Science student and Front-end web developer.
 ## Find me : 
  [![Socialmedia](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yanis_.c/)
  [![Socialmedia](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me)
